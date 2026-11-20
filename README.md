@@ -9,14 +9,14 @@ Two tasks from the program's task catalogue, built, tested and deployed independ
 A responsive personal portfolio: resume, projects, LinkedIn recommendations, blog notes and a contact form. Mobile-first layout, dark/light theme toggle, project detail modals.
 
 - Source: [`Task-1-Developer-Portfolio/`](./Task-1-Developer-Portfolio)
-- Live: https://glittering-concha-f12765.netlify.app
+- Live: https://mohamede-pankolo-dev.netlify.app
 
 ## Task 2 — Docket (Task Manager)
 
 A task manager with full CRUD, filters, search, sorting, drag-and-drop reordering, undo, JSON import/export and `localStorage` persistence. Plain HTML/CSS/JS, 27 automated unit tests and a browser smoke test.
 
 - Source: [`Task-2-Task-Manager/`](./Task-2-Task-Manager)
-- Live: https://helpful-dodol-4aca5d.netlify.app
+- Live: https://docket-pankolo.netlify.app
 
 ## Structure
 
