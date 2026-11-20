@@ -1,0 +1,6 @@
+ANAM: https://meteoburkina.bf/ official logo image URL.
+AIESEC: Wikimedia Commons, LogoAIESEC.png (AIESEC International).
+Plan International: Wikimedia Commons, Logo Plan International.svg.
+Amnesty International: Wikimedia Commons, Amnesty international Logo.svg (older historical logo; brand permission may be required).
+CITADEL and RECLIM: simple transparent local typographic wordmarks; official logo assets could not be verified/downlaoded. They are not official logos.
+Remote images require internet access. Offline fallback displays organization name.

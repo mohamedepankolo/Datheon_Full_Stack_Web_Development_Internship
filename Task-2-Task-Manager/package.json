@@ -1,0 +1,15 @@
+{
+  "name": "docket-task-manager",
+  "version": "1.0.0",
+  "description": "Docket: task manager and productivity tracker with CRUD, filters, drag-and-drop and localStorage. Datheon Full Stack Web Development Internship, Task 2.",
+  "private": true,
+  "author": "Mohamede Pankolo",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/core.test.js tests/storage.test.js",
+    "start": "npx --yes serve -l 5500 ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
